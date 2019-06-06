@@ -2,6 +2,10 @@
 
 UCARE is a is a web based platform for patients and doctor to have a more well-rounded, transparent healthcare experience.The main purpose of this application is to give people a space where they can be updated on their families’ health issues as well as have their entire medical history in one space for themselves and all medical professionals with access to view, including the feature to be present "live" during the appointments of your loved ones via video appointment option. 
 
+
+# Demo
+Please follow the link to [Heroku](https://ucare2019.herokuapp.com/) deployment to play with the project. To login use leo@ucare.dev as login email and 12345 as a password.
+
 ### User Stories
 
 User Schema
@@ -55,9 +59,6 @@ Initial Layout
 
 ## Authors
   * Varvara Kourova, Amanda Murillo, Swechchha Parajuli
-
-# Demo
-Please follow the link to [Heroku](https://ucare2019.herokuapp.com/) deployment to play with the project. To login use leo@ucare.dev as login email and 12345 as a password.
 
 # License
 
